@@ -1,0 +1,540 @@
+ TELEFONO      TITULAR              DOMICILIO
+ 4091          BERTA                1ı DE MAYO 65       
+ 433561        CLARA M.             1‰ DE MAYO 175      
+ 433590        PEDRO ALBERTO        1‰ DE MAYO 376      
+ 499112        MIRYAN               1‰ JUNTA 125        
+ 22699         DISTRIBUCIONES S.R.L 1‰ JUNTA 1685       
+ 433540        JULIO CESAR          1‰ JUNTA 431        
+ 28395         LEOPOLDO             1‰ JUNTA Y VICTORIA 
+ 427751        LYLIA DE LAS MERC.   1‰JUNTA 478         
+ 25299         SILVIA RAQUEL        1RA.JUNTA 973       
+ 428574        ARMINDA E.           2 DE ABRIL 1648     
+ 427941        MARIA DEL PILAR      2 DE ABRIL 890      
+ 436839        NESTOR A             25 DE MAYO 1320     
+ 429454        LETICIA MARIA        25 DE MAYO 1611     
+ 27110.        NELLY                25 DE MAYO 1631     
+ 31069         MARIANO              25 DE MAYO 263      
+ 422630        OSCAR G.             25 DE MAYO 314      
+ 434614        MARIELA              25 DE MAYO 681      
+ 425658        BRUNET               25 DE MAYO 735      
+ 436190        LIBRERIA             25 DE MAYO 860      
+ 422373        LONGINA PEREZ DE     25 DE MAYO 865 1‰PIS
+ 426232        MIGUEL ALBERTO       25 DE MAYO 925      
+ 26232         MIGUEL ANGEL         25 DE MAYO 925      
+ 28287         JUAN FRANCISCO       25 DE MAYO 982      
+ 15558628      GRIDO                25 DE MAYO Y CHURRUA
+ 22532         REBORI               25 DE MAYO Y PELLEGR
+ 425940        RESTAURANT           3 DE CABALL.Y S.LORE
+ 27232         ANA M.               3 DE CABALLERIA 1047
+ 424053        GRACIELA R.          3 DE CABALLERIA 1067
+ 42889         AURORA EVA           3 DE CABALLERIA 1086
+ 426736        ELIDA                3 DE CABALLERIA 1295
+ 430107        MARIA INES           3 DE CABALLERIA 1315
+ 1578137       DANIEL               3 DE CABALLERIA 1452
+ 425326        ROSA                 3 DE CABALLERIA 1788
+ 428447        LILIANA DORA         3 DE FEBRERO 259    
+ 425040        MARIO ESTEBAN        3 DE FEBRERO 55     
+ 422288        GUSTAVO              3 DE FEBRERO 98     
+ 499009        JULIA PETRONA        30 NOVIEMBRE y GCHU.
+ 428022        FRANCISCO            9 DE JULIO 266      
+ 426127        CARLOS               9 DE JULIO 553      
+ 429649        LUCIA L.             9 DE JULIO 577      
+ 422583        GUILLERMO ALEJANDRO  A.ELIAS 476         
+ 428669        MIRTA GRACIELA       A.ELIAS 59          
+ 29309         GUSTAVO DANIEL       AGUADO 209          
+ 31425         FEDERICO LEOPOLDO    AGUADO 273          
+ 429029        DORA ELEA            AGUADO 284          
+ 6458          SILVIA               ALBERDI 18          
+ 425997        SUSANA               ALBERDI 521         
+ 15535235      OLGA                 ALBERDI 88          
+ 429139        JUAN F.              ALEM 219            
+ 24374         HUGO RUBEN           ALEM 380            
+ 434977        RAMON ROSENDO        ALEM 442            
+ 433809        BALDOMERO RAMON      ALTUNA 1157         
+ 426756        MIGUEL JAVIER        ANDRADE 1170        
+ 23078         PEDRO ATILIO         ANDRADE 1216        
+ 430381        ROSA ISABEL          ANDRADE 1328        
+ 431863        BEATRIZ              ANDRADE 1422        
+ 431863        IRMA INES            ANDRADE 1422        
+ 31591         MARIANO              ANDRADE 1581        
+ 425317        JUAN DOMINGO         ANDRADE 634         
+ 3862          JULIETA R.           ANDRADE 771         
+ 26432         JULIA LORENZO        ANDRADE 787         
+ 22267         ANA MARIA            ANDRADE 847         
+ 423967        JOINI PEDRO          ANDRADE 945         
+ 426728        ESTHER FIDEL         ANDRADE 964         
+ 25985         JORGE LUIS           ANGEL ELIAS 168     
+ 423567        ZULMA                ANGEL ELIAS 35      
+ 440688        GROUP                ARTIGAS 2000        
+ 424598        GUALEGUAYCHU         AV.BROWN SUR        
+ 430450        ANGELICA             AV.DEL CERRO 40     
+ 15589629      SALON DE EVENTOS     AV.PARQUE Y COSTANER
+ 26389         OLGA RAQUEL          AVELLANEDA 225      
+ 426319        SUSANA ESTER         AYACUCHO 1043       
+ 22220         MERCEDES             AYACUCHO 181        
+ 24457         CATALINA EMILIA      AYACUCHO 290        
+ 424055        ELSA PILAR           AYACUCHO 298        
+ 428292        MONICA PATRICIA      AYACUCHO 397        
+ 428273        MARIA FRANCISCA      AYACUCHO 458        
+ 439099        NILDA                AZUCENAS 35         
+ 15507255      MAURICIO             B.ROLDAN 628        
+ 431511        DIANA                B.ROLDAN 852        
+ 33763         ESTELA RAQUEL        BELGRANO 172        
+ 429374        OSCAR MARIO          BO.338 SE.1 DE.68 PB
+ 422409        PAULA                BO.338 SEC.1 CASA 33
+ 426076        ABELARDO DANIEL      BO.338 SEC.1 DP.143 
+ 428715        ELENA A.             BO.338 VIV. S.1 C.33
+ 427875        RAQUEL MARIA         BO.338 VIV. S1 DE.35
+ 436081        JOSE ANTONIO         BO.348 S.3 C4 DTO.1 
+ 434770        MARIANA              BO.348 S.3 CD.4 CA.8
+ 426659        HILDA                BO.348 SEC.2 CASA 5 
+ 428915        NELIDA TERESA        BO.42 VIV. MA.B CA.1
+ 15504932      DARDO DARIO          BO.62 VIV. CASA 8   
+ 433341        GUILLERMO            BO.ALARCON M.5 - 18 
+ 425359        ELBA ELENA           BO.CASVAC CASA 45   
+ 31839         DIEGO G.             BO.CGT 145 CASA 19  
+ 26661         CLAUDIO              BO.CGT M.7 CASA 12  
+ 433741        GUILLERMO            BO.CGT MAN.18 DTO.44
+ 32578         JULIO ALBERTO        BO.CGT MAN.7 CASA 8 
+ 430843        MIRTA F.             BO.CUCHILLA CASA 19 
+ 15578103      CARLOS RAUL          BO.ESPERANZA 11     
+ 441213        GUSTAVO              BO.HIP.AGUIRRE 1898 
+ 440165        ANTONIA              BO.HIPODROMO M.6 C29
+ 25051         MARIA ANGELICA       BO.HIPODROMO M.D16  
+ 440477        MARCELO              BO.HIPODROMO M.E C.6
+ 440758        INES                 BO.HIPODROMO MJ C.28
+ 440186        LEANDRO J.           BO.MOLINARI 52 C.19 
+ 15638230      TERESA ANA           BO.MUNICIPAL M.A-6  
+ 431168        HECTOR SANTIAGO      BO.VICOER CASA 90   
+ 435333        MARIA FLORENCIA      BO.VICOER M.12 C.11 
+ 452566        JUAN JOSE            BO.ZABALET CASA 1   
+ 15656530      ANDREA               BO.ZABALET CASA 10  
+ 28280         MARIO ABEL           BOLIVAR 1124        
+ 22838         LETICIA              BOLIVAR 1316        
+ 425264        ZULMA                BOLIVAR 1431        
+ 26580         MIGUEL A.            BOLIVAR 1447        
+ 15631538      ISABEL LOURDES       BOLIVAR 1627        
+ 430201        SANTA LUCRECIA       BOLIVAR 1830        
+ 433419        JOSE ANTONIO         BOLIVAR 2005        
+ 432253        MARIA DEL CARMEN     BOLIVAR 635         
+ 434806        BERTA SEGUNDA        BOLIVAR 730         
+ 425111        MULLER AURELIO       BOLIVAR 733         
+ 15600444      CLUB                 BOLIVAR 834         
+ 426139        ECONOMICAS DE E.RIOS BOLIVAR Y PERON     
+ 431146        ANA MARIA            BORGUES 180         
+ 432448        LUIS ORLANDO         B‰ROCAMORA C.24     
+ 428466        MIGUEL ANGEL         BORQUES 205         
+ 15646082      CENTRO RECREATIVO    BORQUES 297         
+ 2313          HUDO EDUARDO         BORQUES 342         
+ 423660        BERTA                BORQUES 501         
+ 427084        LEONARDO E.          BORQUES 84          
+ 433035        MARIA ALEJANDRA      BRASIL 375          
+ 32362         ANGEL                BS. AS. 330         
+ 29174         MARIA ELENA          BS. AS. 673         
+ 423013        CAROLINA             BS.AS. 857          
+ 23720         JULIO ALBERTO        BUENOS AIRES 1014   
+ 426962        ERNESTO DANIEL       BUENOS AIRES 1063   
+ 15580575      FUTBOL 5             BUENOS AIRES 935    
+ 29728         HUGO                 BV.MONTONERA Y ROCA 
+ 426211        CARINA ALEJANDRA     Bvad. MARIA/ COLOMBO
+ 15640888      ESTELA               C.DE LA COSTA 973   
+ 433432        ESTUDIO JURIDICO     C.NIEVES 338        
+ 430324        RAUL HORACIO         C.SANCHEZ 441-P.BELG
+ 433253        ADOLFO               CAFFERATA 570       
+ 424609        JORGE OSCAR          CAMILA NIEVAS 373   
+ 422763        DOROTEA ESTHER       CASEROS 15          
+ 22285         ANA MARIA            CASEROS 240         
+ 15415305      GINO MARCELO         CASEROS 386         
+ 440217        CARLOS ALBERTO       CEPEDA 1852         
+ 440178        MARIO FRANCISCO      CEPEDA 1869         
+ 422560        ESTER ANGELICA       CERVANTES 1276      
+ 15572463      GABRIEL              CERVANTES 973       
+ 435261        JOSE LUIS ALBERTO    CHACABUCO 125       
+ 423538        ISABEL               CHACABUCO 184       
+ 422932        DANIEL ARTURO        CHACABUCO 472       
+ 27503         MARTHA SUSANA        CHACABUCO 576       
+ 27416         MARIA ESTHER         CHACABUCO 77        
+ 427102        CONTRERA CONCEPCION  CHALUP 170          
+ 423741        JAVIER               CHALUP 2014         
+ 422439        ZAIDA CATA           CHALUP 206          
+ 435685        CARLOS DANIEL        CHALUP 240          
+ 425862        OSCAR ALFREDO        CHALUP 351          
+ 431484        ROBERETO IGANACIO    CHURRUARIN 1071     
+ 423689        GRACIELA E.          CHURRUARIN 122      
+ 423269        HILDA ELENA          CHURRUARIN 256      
+ 423105        MYRIAN               CHURRUARIN 58 2‰C   
+ 2756          EVA                  CHURRUARIN 58 4‰C   
+ 422123        CARLOS MARIA         CHURRUARIN 76       
+ 15638275      SUSANA               CHURRUARIN 765      
+ 429897        TEODORO              COLOMBO 1012        
+ 431897        ANA P.               COLOMBO 1133        
+ 20052         GRUTA RAQUEL         COLOMBO 1206        
+ 422572        RAUL GUILLERMO       COLOMBO 1225        
+ 424094        MARIA ANGELICA       COLOMBO 1232        
+ 431619        ERNESTO              COLOMBO 287         
+ 24192         MARIA                COLOMBO 668         
+ 429098        CELIA BETRIZ         COLOMBO 721         
+ 424320        CARMEN S.            COLOMBO 721         
+ 24011         ALICIA SUSANA        COLOMBO 755         
+ 25479         OFELIA               COLOMBO 772         
+ 429398        RAUL ALFREDO         COLOMBO 879         
+ 427788        BLACK RIVER          COLOMBO Y VICTORIA  
+ 23894         MARTA                CONCORDIA 1030      
+ 23698         MARIA DORA           CONCORDIA 1062      
+ 427712        ANA LUCIA            CONCORDIA 1140      
+ 435296        MARIA RAFAELA        CONCORDIA 1176      
+ 431403        ANTONIA              CONCORDIA 1293      
+ 432914        MARIA LAURA          CONCORDIA 1570      
+ 440346        CARLOS A             CONCORDIA 1840      
+ 432252        DANIELA R.           CONCORDIA 549       
+ 15641583      MARIA BRIGNOLI       CONCORDIA 574       
+ 25749         JORGE HUGO           CONCORDIA 715       
+ 429382        LUISINA              CONST. 249          
+ 425141        JORGE                CONSTITUCION 222    
+ 435808        ANA MARIA            CONSTITUCION 388    
+ 428301        CONSTRUCTORA         CONSTITUCION 445    
+ 15548073      ESTUDIO DE DANZAS    CONSTITUCION 56     
+ 426871        SILVIA BEATRIZ       CONSTITUCION 560    
+ 429570        GRISELDA             CONSTITUCION 595    
+ 440197        STELLA MARIS         CONSTITUCION 644    
+ 15404839      JOSE GUSTAVO         CONSTITUCION 826    
+ 429600        GLADYS I.            CORDOBA 37          
+ 430359        ANA MARIA            CORDOBA 49          
+ 428116        MERCEDES EMILIA      CORDOBA 514         
+ 430870        SILVIA               COUNTRY CLUB GCHU.  
+ 426591        DINA ESTHER          D.JURADO 1150       
+ 15662316      FLAVIO               D.JURADO 465        
+ 429363        MARIA CRISTINA       D.JURADO 575        
+ 15476328      MARIA LAURA          D.JURADO 735        
+ 427520        MARIA EUGENIA        D.JURADO 952        
+ 427623        ISMAEL               D.JURADO 965        
+ 425373        OTERO, ALDO JOSE     DANERI 59           
+ 04031489      JORGE HECTOR         DANERI Y SOBRAL     
+ 23522         MARIA R.             DEL VALLE 1015      
+ 423780        JOSE LEOPARDO        DEL VALLE 1297      
+ 426854        MARIA LUISA EMILIA   DEL VALLE 1394      
+ 23655         TERESA               DEL VALLE 1456      
+ 15410386      BAR AKUA             DEL VALLE 312       
+ 422912        SILVIA               DEL VALLE 318       
+ 425801        TERESITA             DEL VALLE 369       
+ 438197        ALICIA               DEL VALLE 420       
+ 436723        LA COLONIA           DEL VALLE/3 FEBRERO 
+ 15415876      JULIO                DENEVARESyREP.ORIENT
+ 424813        GUILLERMO DANIEL     DIJURADO 810        
+ 434020        LIDIA                DOELLO JURADO 1438  
+ 430238        ESTEBAN              DOELLO JURADO 1610  
+ 549506        ANA MARIA            DOELLO JURADO 360   
+ 427928        LILIANA              DOELLO JURADO 389   
+ 23889         ALBINA CATALINA      DOELLO JURADO 735   
+ 31725         MIGUEL A.            DR.JURADO 1075      
+ 440287        ELIDA                EDISON 479          
+ 440062        FIDELA ESTHER        EDISON 756          
+ 26412         RAMONA               ESPAÛA 131          
+ 427283        LILIANA              ESPAÛA 156          
+ 23127         MARIA FLORENCIA      ESPAÛA 525          
+ 424218        SALVADOR             ESPAÛA 535          
+ 437462        MARGARITA            ESPAÛA 860          
+ 431721        LETICIA              ESPAÛA 860          
+ 429200        MARTA ELVIRA         ESPAÛA 860          
+ 436470        MONICA               ESPAÛA 953          
+ 31718         GRACIELA             ESTRADA 1149        
+ 30790         MARIA TERESITA       ESTRADA 581         
+ 424987        MARTA BEATRIZ        ESTRADA 709         
+ 428680        GERARDO VICENTE      ETCHEVEHERE 978     
+ 431573        OSCAR RAMON          ETCHEVERE 1188      
+ 424618        ERIKA                EVA PERON 671       
+ 424912        JUAN JOSE            EVA PERON 802       
+ 426817        FRANCISCA            EVA PERON 949       
+ 430789        MARIA JOSE           F. SANCHEZ 786      
+ 431453        YOLANDA P.           F.SANCHEZ 699       
+ 431430        RENEE                F.SANCHEZ 708       
+ 15531747      CARLOS O.            FEDERAL 289         
+ 428116        RAFAEL JUSTINO       FRAY MOCHO 222      
+ 427256        JORGE AGUSTIN        FRAY MOCHO 26       
+ 28531         VALENTIN             FRAY MOCHO 275      
+ 428437        MARIA ALEJANDRA      FRAY MOCHO 370      
+ 429692        MARTA E.             FRAY MOCHO 586      
+ 423467        MARIA NIDIA          G. MENDEZ 1181      
+ 30593         IRMA MERCEDES        G. MENDEZ 1620      
+ 427645        HELENE               G. MENDEZ 641       
+ 27185         SILVIA               G. MENDEZ 728       
+ 427704        CARLOS               G.MENDEZ 1079       
+ 424745        VENTURA              G.MENDEZ 1191       
+ 424756        MARIELA C.           G.MENDEZ 1205       
+ 427711        SUSANA               G.MENDEZ 1257       
+ 424690        STELLA MARIS         G.MENDEZ 1299       
+ 431833        JUAN RAMON           G.MENDEZ 1816       
+ 442603        LIDIA                G.MENDEZ 2039       
+ 423481        MARIA ESTHER         G.MENDEZ 460        
+ 426868        ANGELA C.            G.MENDEZ 575        
+ 423615        LILIANA SILVINA      G.MENDEZ 651 - 4‰A  
+ 22372         LYDIA RENE           G.MENDEZ 830        
+ 31967         LILIANA              G.MENDEZ MA.3 CASA22
+ 15409709      NANCY                G.MENDEZ Y P.6      
+ 15600368      ROBERTO DARIO        G.SPANO 675         
+ 15577784      ENRIQUE EDUARDO      G.SPANO 695         
+ 440741        JUAN JOSE            GAELANO 2288        
+ 24885         EMILIO D.            GALEANO 2275        
+ 15577616      PABLO ERNESTO        GALGUERA 861 CASA 9 
+ 423950        LAURA EMILIA         GENERAL PAZ 89      
+ 27171         ODILIA T.            GERVASIO MENDEZ 1053
+ 23088         GUILLERMO            GF. MENDEZ 1921     
+ 428492        MARIA ELENA          GOLDARACENA 1005    
+ 440476        EDGARDO              GRAL PAZ 487        
+ 422580        ESTELA               GRAL.PAZ 182        
+ 15631522      PABLO                GRAL.PAZ 213        
+ 424728        LUIS ALBERTO         GUALEGUAY 139       
+ 422817        ADELFA               GUALEGUAY 305       
+ 422935        LUISA ESTER          GUALEGUAY 349       
+ 432438        RUBEN I              GUEMES 965          
+ 28643         JESUS ABEL           GUTEMBERG 96        
+ 440713        MARIA R.             GUTIERREZ 1902 HIPOD
+ 440307        SARA LILIANA         HERNANDARIAS 2231   
+ 440006        ANGELICA             HERNANDEZ S/N       
+ 440492        ANA MARIA            IRAZUSTA 1100       
+ 1553597       IRMA R.              IRAZUSTA 1153       
+ 425824        MABEL M.             IRAZUSTA 1521       
+ 427338        LUCIA C.             IRIGOYEN 280        
+ 433857        SILVESTRE            IRIGOYEN 449        
+ 430576        PETRONA MODESTA      IRIGOYEN 522        
+ 425139        JORGE SEBASTIAN      IRIGOYEN 575        
+ 15644008      PABLO FEDERICO       ITALIA 23           
+ 424437        SILVIA ELENA         ITALIA 231          
+ 426722        ROSA MABEL           ITALIA 453          
+ 26428         MARCOS ALBERTO       ITUZAINGO 1078      
+ 23830         NORMA LETICIA        ITUZAINGO 517       
+ 425880        ABELARDO             ITUZAINGO 757       
+ 15529240      JARDIN KARAMIELLE    ITUZAINGO Y CORRIEN.
+ 436316        LUIS GUILLERMO       J.B.JUSTO 969       
+ 435402        SILVINA              J.B.JUSTO D‰6 CGT155
+ 20537         MARIA G.             J.D.PERON 1036      
+ 433010        MARTA                J.J.FRANCO 554      
+ 430042        PURISIMA MARIA ELENA J.J.FRANCO 814      
+ 435241        ESTELA I.            J.J.FRANCO 874      
+ 425347        ANGELA               J.LAPALMA 1125      
+ 434783        CARLOS               J.LEON TORRES 119   
+ 434818        RUBEN ERNESTO        J.V.GONZALEZ 732    
+ 428178        PEDRO MIGUEL         JJ. FRANCO 1390     
+ 430761        JUAN JOSE            JUAN B. JUSTO 759   
+ 32664         CRISTIAN             JUJUY 1090          
+ 28367         RAMONA               JUJUY 1170          
+ 27378         EDUARDO              JUJUY 1175          
+ 428413        MARIA ESTER          JUJUY 1301          
+ 432288        ANA LIA              JUJUY 1392          
+ 435526        VICTOR MANUEL        JUJUY 712           
+ 432654        OMAR H.              JUJUY 825           
+ 425641        JUAN VICTOR          JUJUY 901           
+ 28200         JUAN FRANCISCO       JUJUY 955           
+ 440341        ALBERTO              L.LATOTTE 1370      
+ 22732         PERLA                L.N. PALMA 1168     
+ 426215        RAUL I.              L.N. PALMA 1700     
+ 22798         SILVIA               L.N. PALMA 704      
+ 4324          OTILIA REARDEN       L.N.PALMA 1017      
+ 25510         MARIA AMELIA DE V.   L.N.PALMA 1045 M.2-1
+ 7561          LETICIA              L.N.PALMA 1059      
+ 426337        VALERIA              L.N.PALMA 1061      
+ 15644908      GUSTAVO              L.N.PALMA 1282      
+ 24987         CARMEN RENEE         L.N.PALMA 1374      
+ 423626        ELENA MARIA          L.N.PALMA 1810      
+ 420828        JARDIN PASITOS       L.N.PALMA 281       
+ 26670         TERESA MARIA         L.N.PALMA 354       
+ 427931        SIXTO                L.N.PALMA 355       
+ 423143        MUSICANTE            L.N.PALMA 627       
+ 426678        CRISTINA             L.N.PALMA 697       
+ 27316         AMANDA TERESA        L.N.PALMA 95        
+ 22225         MARY YOLANDA         L.PALMA 1045 M.1 D.2
+ 24729         ROSANA               LAVALLE 229         
+ 424918        MARIA DE LOS ANGELES LAVALLE 297         
+ 424307        MARIA RAMONA         LAVALLE 447         
+ 15568471      FABRICIO A.          LAVALLE 512         
+ 422281        CLAUDIA              LESTOMAC 1175       
+ 424112        JUAN FRANCISCO       LOS ALAMOS 1570     
+ 433623        ELENA GRISELDA       M.PAIVA 1704        
+ 15591270      DORA                 M.PAIVA 1733        
+ 15565135      DEL GUALEYAN         M.PIAGGIO S/N       
+ 436218        ALICIA               MAESTRA PICINI 1020 
+ 26220         SILVINA              MAGNASCO 158        
+ 15417157      PABLO MARTIN         MAGNASCO 277        
+ 28211         JAVIER ANIBAL        MAGNASCO 358        
+ 424520        ERNESTO              MAGNASCO 866        
+ 23688         ROQUE                MAIPU 345           
+ 26416         BERTHA               MAIPU 37            
+ 15401699      ROSA                 MISIONES 335        
+ 427515        NELLY                MITRE 245           
+ 6259          ANGEL RUBEN          MITRE 283           
+ 432210        ALEJANDRO            MITRE 482           
+ 422694        RICARDO ALBERTO      MONTANA E IRIGOYEN  
+ 431474        GLORIA MARIA INES    MONTEVIDEO  997     
+ 436337        SILVIA LILIANA       MONTEVIDEO 236      
+ 15631177      MARIA ROSA           MONTEVIDEO 355      
+ 433009        CELEDONIO ANGEL      MONTEVIDEO 499      
+ 27523         ALFREDO FRACISCO     MONTEVIDEO 75       
+ 424368        LUCY                 MONTIEL 25          
+ 423457        MARIA DEL CARMEN     MORENO 260          
+ 423225        MIRTA                MORENO 327          
+ 429189        MARIA NELIDA         NAGERA SEC.1 DP.103 
+ 5668          MARIA AMALIA         NEYRA 213           
+ 425527        ELISA ESTER          NEYRA 247           
+ 15572094      NELIDA ALEJANDRA     NEYRA 335           
+ 428327        BLANCA SUSANA        NEYRA 781           
+ 454545        DEL PUERTO           NICARAGUA Y CASEROS 
+ 433611        LUIS                 NOGOYA 232          
+ 431084        JUAN CARLOS          NOGOYA 362          
+ 427825        SILVIA CRISTINA      NOGOYA 76           
+ 28989         HECTOR DANIEL        O. SMITH 530        
+ 28102         MIGUEL ANGEL         O. SMITH 570        
+ 499178        INES                 ORO VERDE 427       
+ 423660        MARIA ROSA           ORO VERDE 468       
+ 15548951      ARMANDO              PALACIOS 922        
+ 425319        LEOPOLDO F.          PANAMA 232          
+ 432258        MARTIN               PARAGUAY 244        
+ 430674        HORACIO              PARAGUAY 351        
+ 420863        LILIA ANGELICA       PARAGUAY 46         
+ 27896         MARIA DOLORES        PARANA 98           
+ 422371        MARCELA              PELEGRINI 1555      
+ 427754        MARINA               PELLEGRINI 24       
+ 425852        MARIA                PELLEGRINI 416      
+ 440605        LUIS HECTOR          PEREDA 2480         
+ 15404615      ESJA                 PERIGAN Y 2 DE JULIO
+ 431732        MARIA DEL CARMEN     PERISU/ESPAÛA       
+ 25043         HUGO CESAR           PERITO MORENO 1170  
+ 23923         ILARIA               PERON 108           
+ 422235        GUSTAVO              PERON 112           
+ 424515        AURORA               PERON 35 1‰D        
+ 422281        ADRIANA              PERON 35 3‰A        
+ 15634290      OSVALDO              PERON 35 3‰A        
+ 436092        ELZA ZULEMA          PERON 35 3‰E        
+ 422974        AMADA                PERON 55            
+ 426148        BROMATOLOGIA         PRESIDENTE PERON 64 
+ 32411         MANUEL ALBERTO       PTE. PERON 35 4‰B   
+ 440233        MARIA BENITA         PTE.PERON 176       
+ 15532239      ALICIA CECILIA       PTE.PERON 218       
+ 3101          MATILDE E.           PTE.PERON 35 4‰"F"  
+ 431482        IRMA TERESA          PTE.PERON 926       
+ 432587        VICTOR DOMINGO       PUERTO ARG. 1001    
+ 433066        VICTOR MIGUEL        RAFFO 641           
+ 423635        SARA MARIA           RAFFO 80            
+ 28586         WILSON DANIEL        RAMIREZ 187         
+ 429460        ALICIA E.            RAWSON 39           
+ 420523        ALBERTO A.           RCA.ORIENTAL 324    
+ 423458        GRACIELA             REP.ORIENTAL 126    
+ 434329        OSCAR M.             REP.ORIENTAL 480    
+ 23318         RICARDO              RIO DE PAJAROS 888  
+ 15570661      IDA                  RIOJA 1054 DP.B     
+ 15668165      STELLA M.            RIOJA 1073          
+ 23623         MARIA K.             RIOJA 1349          
+ 15637309      CESAR                RIOJA 143 3         
+ 428107        DORA                 RIOJA 1453          
+ 420697        ALICIA               RIOJA 888           
+ 429683        CLOTILDE EMILIA      RIOJA 974           
+ 424674        L, Y PAUTASIO C. S.H RIOJA Y S.DIAZ      
+ 24234         YOLANDA              RIVADAV.1195 MI 2‰12
+ 425845        JORGE                RIVADAVIA 1042      
+ 423393        ANIBAL JOSE          RIVADAVIA 1212      
+ 423008        ALBERTO JESUS        RIVADAVIA 338       
+ 420717        MARIA INES           RIVADAVIA 480       
+ 2978          RICARDO              RIVADAVIA 705       
+ 430335        RAMON HIPOLITO       RIVADAVIA 877       
+ 432373        FERNANDO JAVIER      ROCA 153            
+ 432095        MARIA ADELA          ROCA 565            
+ 15347502      PUB                  ROCAMORA 333        
+ 15634776      ANA MARIA            ROCAMORA 848        
+ 433333        MALAMBO S.A.         ROCAMORA Y 3 DE CABA
+ 426569        GUSTAVO              ROCCA 80            
+ 15508691      JOSE                 RODO 1242           
+ 424190        MARIA AMALIA         ROLDAN 628          
+ 424857        ELENA                ROSARIO 12          
+ 7053          CARMEN               ROSARIO 140         
+ 424788        EMILIO               ROSARIO 167         
+ 27179         OSVALDO PEDRO        ROSARIO 170         
+ 427443        GUILLERMO D.         ROSARIO 88          
+ 431529        MIGUEL ANGEL         RUBEN DARIO 1141    
+ 15632503      SIVIA GRACIELA       RUCCHI 218          
+ 428255        GRACIELA M.          RUCCI 295           
+ 422567        RODOLFO              RUCCI 80            
+ 01143426223   FELDBERG             RUTA 136 KM. 31.8   
+ 425381        CLAUDIO              S. DIAZ 166         
+ 423611        MARIA ESTER          S. DIAZ 195         
+ 27300         VICTOR ORLANDO       S. DIAZ 529         
+ 424028        DANIEL               S.DIAZ 148 2‰D      
+ 31970         MARIA GRISELDA       SAEZ PEÛA 219       
+ 423908        DEL NIÛO DIOS        SAINT PAUL Y ANDRADE
+ 22332         ANA MARIA            SAN JOSE 225        
+ 432069        MARIA LUISA          SAN JOSE 422        
+ 15620751      NICASIO DANIELA      SAN JOSE 845        
+ 432947        MIRTA                SAN JOSE Y J.B.JUSTO
+ 429707        CARLOS H.            SAN JUAN 1037       
+ 434236        MATILDE BEATRIZ      SAN JUAN 126        
+ 423329        NYDIA ZULMA          SAN JUAN 836        
+ 423396        CARLOS GABRIEL       SAN LORENZO 130     
+ 432451        FAZZIO ARTURO V.J    SAN LORENZO 370     
+ 436071        ANIBAL               SAN LUIS 1          
+ 15632230      RODOLFO              SAN LUIS 23         
+ 3761          HORACIO              SAN LUIS 25         
+ 30643         LUIS RAMON           SAN LUIS 392        
+ 425968        MARIA L.             SAN LUIS 447        
+ 28203         SILVIO OMAR          SAN LUIS 62         
+ 31137         DANIEL RODOLFO       SAN MARTIN 1129     
+ 15596410      ISIS JAZZ            SAN MARTIN 1130     
+ 23893         ENRIQUE              SAN MARTIN 1190     
+ 423057        RAMON HUGO           SAN MARTIN 1206     
+ 422957        EVANGELICA BAUTISTA  SAN MARTIN 1228     
+ 23249         FELICIANA A.         SAN MARTIN 1273     
+ 33445         MARIA LUCIA          SAN MARTIN 1297     
+ 425209        OGARITA              SAN MARTIN 1378     
+ 434142        ADRIANA S.           SAN MARTIN 1857     
+ 32797         HORACIO              SAN MARTIN 1901     
+ 433140        MARTIN CELEDONIO     SAN MARTIN 2010     
+ 3208          JORGE A.             SAN MARTIN 232      
+ 26575         CARMELO              SAN MARTIN 260      
+ 427492        GRACIELA             SAN MARTIN 404      
+ 424659        MARIA DEL CARMEN     SAN MARTIN 459      
+ 7234          ESTELA               SAN MARTIN 540      
+ 423997        CRISTINA             SAN MARTIN 661 8‰A  
+ 15533498      ALICIA               SAN MARTIN 904 PB   
+ 422723        ALICIA               SAN MARTIN 914      
+ 22848         OESTE                SAN MARTIN Y CONSTIT
+ 431853        CORNELIO             SAN V.DE PAUL 184   
+ 15408610      COMPLEJO TURISTICO   SANCHEZ 92-PUEB.BELG
+ 423493        RENEE                SANTA FE 59         
+ 15645879      SANTA BERNARDITA     SANTA FE Y J.J.FRANC
+ 422338        JUVENTUD UNIDA       SCHACHTEL 149       
+ 421091        PABLO ALEJANDRO      SCHACHTEL 180       
+ 427333        JUVENTUD UNIDA       SCHASTELL Y COLOMBO 
+ 423094        MARY ANGELICA        SEGUI 218           
+ 15595847      MARIANA              SEGUI 345           
+ 428980        ELENA ROSA           SEGUI 522           
+ 23691         GUILLERMO A.         SEGUI 530           
+ 15508142      JUAN CARLOS          SEGUI 531           
+ 430732        MARIA LUCILA         SEGUI 538           
+ 31922         JORGE                SEGUI 548           
+ 28402         GUILLERMO            SEGUI 552           
+ 32111         ANIBAL RAUL          SEGUI 564           
+ 428390        EDUARDO              SEGUI 569           
+ 428201        EDUARDO              SEGUI 575           
+ 15646484      DORA GRACIELA        SIBOLDI 977         
+ 29717         ALBINO MIRLO         SMITH 547           
+ 3738          CARLOS HUMBERTO      SUIPACHA 345 1‰"F"  
+ 429255        TRINIDAD             TALA 677            
+ 432396        PYME                 URQUIJO Y GUTEMBERG 
+ 3163          LUCIA EMILIA         URQUIZA 122         
+ 22105         ANDREA PAOLA         URQUIZA 2080        
+ 435860        ANA                  URQUIZA 2129        
+ 15549478      MARIA VICTORIA       URQUIZA 3093        
+ 423305        LUIS ALBERTO         URQUIZA 343         
+ 24717         OSCAR CESAR          URQUIZA 424         
+ 427985        JULIETA              URQUIZA 691         
+ 422033        NORALI               URQUIZA 716         
+ 422795        ALFREDO              URQUIZA 890         
+ 435591        LULY                 URQUIZA AL OESTE P.4
+ 15533176      NELIDA               URQUIZA OEST.PAR.14 
+ 438151        S.A.                 URQUIZA OESTE PAR.10
+ 577077        BLANZA A.            URQUIZA OESTE PAR.16
+ 433333        MALAMBO S.A.         URQUIZA Y P.JURADO  
+ 433333        MALAMBO S.A.         URQUIZA Y P.JURADO  
+ 426092        AMERICA              VELEZ SARFIELD 229  
+ 425722        ELSA                 VICTORIA 104        
+ 431168        LUIS M.              VICTORIA 161        
+ 422002        ERNESTO              VICTORIA 275        
+ 499169        HORACIO ROBERTO      VICTORIA S/N        
+ 439485        MARTA                VIRREYNATO 339      
